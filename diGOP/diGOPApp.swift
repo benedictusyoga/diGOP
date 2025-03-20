@@ -7,6 +7,8 @@
 
 import SwiftUI
 import SwiftData
+import CoreLocation
+import MapKit
 
 @main
 struct diGOPApp: App {
@@ -25,7 +27,7 @@ struct diGOPApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreenView()
         }
         .modelContainer(sharedModelContainer)
     }
