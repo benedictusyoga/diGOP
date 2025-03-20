@@ -3,7 +3,7 @@
 //  diGOP
 //
 //  Created by Benedictus Yogatama Favian Satyajati on 20/03/25.
-//  First Commit
+//  Second Commit
 
 import SwiftUI
 import SwiftData
