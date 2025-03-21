@@ -5,6 +5,7 @@
 //  Created by Benedictus Yogatama Favian Satyajati on 20/03/25.
 //
 
+// test push
 import SwiftUI
 
 struct SplashScreenView: View {
